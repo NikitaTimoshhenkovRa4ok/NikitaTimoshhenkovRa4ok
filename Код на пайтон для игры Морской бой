@@ -440,3 +440,4 @@ while app_running:
     if app_running:
         tk.update_idletasks()
         tk.update()
+    time.sleep(0.005)
